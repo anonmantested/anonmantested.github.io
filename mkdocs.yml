@@ -1,7 +1,7 @@
 site_name: Notes Website Beta
 
 theme:
-  name: mkdocs
+  name: material
   features:
     - navigation.expand
     - navigation.sections

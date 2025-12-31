@@ -1,0 +1,18 @@
+site_name: Notes Website Beta
+
+theme:
+  name: mkdocs
+  features:
+    - navigation.expand
+    - navigation.sections
+
+nav:
+  - Home: index.md
+
+  - Education:
+      - TryHackMe:
+          - Pre-Security:
+              - Introduction to Cyber Security:
+                  - OSI Model: education/try-hack-me/pre-security/introduction-to-cyber-security/osi.md
+                  - IPv4: education/try-hack-me/pre-security/introduction-to-cyber-security/ipv4.md
+                  - IPv6: education/try-hack-me/pre-security/introduction-to-cyber-security/ipv6.md

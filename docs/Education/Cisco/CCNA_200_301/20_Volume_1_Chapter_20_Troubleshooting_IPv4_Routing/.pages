@@ -1,0 +1,8 @@
+﻿title: Volume 1 Chapter 20 Troubleshooting IPv4 Routing
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Problem Isolation Using The Ping Command: 02_Problem_Isolation_Using_The_Ping_Command.md
+  - Problem Isolation Using The Traceroute Command: 03_Problem_Isolation_Using_The_Traceroute_Command.md
+  - Telnet And SSH: 04_Telnet_And_SSH.md
+  - Review: 05_Review.md

@@ -1,9 +1,5 @@
-# Section Overview
+﻿# SOC Level 2
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **SOC Level 2**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

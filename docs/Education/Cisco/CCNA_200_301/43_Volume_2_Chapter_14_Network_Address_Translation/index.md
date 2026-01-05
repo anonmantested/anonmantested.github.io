@@ -1,9 +1,5 @@
-# Section Overview
+﻿# Volume 2 Chapter 14 Network Address Translation
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **Volume 2 Chapter 14 Network Address Translation**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

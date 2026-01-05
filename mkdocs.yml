@@ -1,10 +1,10 @@
-site_name: Study Notes
+site_name: Notes Website Beta
 
 theme:
   name: material
-
-plugins:
-  - search
-  - awesome-pages
-
-docs_dir: docs
+  features:
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.path

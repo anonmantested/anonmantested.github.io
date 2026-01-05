@@ -1,0 +1,8 @@
+﻿title: SIEM Triage For SOC
+nav:
+  - Overview: index.md
+  - Log Analysis With SEIM: 01_Log_Analysis_With_SEIM.md
+  - Alert Triage With Splunk: 02_Alert_Triage_With_Splunk.md
+  - Alert Triage With Elastic: 03_Alert_Triage_With_Elastic.md
+  - ItsyBitsy: 04_ItsyBitsy.md
+  - Benign: 05_Benign.md

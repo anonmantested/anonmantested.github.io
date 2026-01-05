@@ -1,0 +1,9 @@
+﻿title: Volume 2 Chapter 9 Security Architectures
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Security Terminology: 02_Security_Terminology.md
+  - Common Security Threats: 03_Common_Security_Threats.md
+  - Controlling And Monitoring User Access: 04_Controlling_And_Monitoring_User_Access.md
+  - Developing A Security Program To Educate Users: 05_Developing_A_Security_Program_To_Educate_Users.md
+  - Review: 06_Review.md

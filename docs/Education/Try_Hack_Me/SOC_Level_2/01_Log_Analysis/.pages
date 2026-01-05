@@ -1,0 +1,6 @@
+﻿title: Log Analysis
+nav:
+  - Overview: index.md
+  - Intro To Logs: 01_Intro_To_Logs.md
+  - Log Operations: 02_Log_Operations.md
+  - Intro To Log Analysis: 03_Intro_To_Log_Analysis.md

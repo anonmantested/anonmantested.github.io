@@ -1,0 +1,9 @@
+﻿title: Volume 1 Chapter 29 Implementing IPv6 Routing
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Connected And Local IPv6 Routes: 02_Connected_And_Local_IPv6_Routes.md
+  - Static IPv6 Network Routes: 03_Static_IPv6_Network_Routes.md
+  - Static Default Host And Floating Static IPv6 Routes: 04_Static_Default_Host_And_Floating_Static_IPv6_Routes.md
+  - Troubleshooting Static IPv6 Routes: 05_Troubleshooting_Static_IPv6_Routes.md
+  - Review: 06_Review.md

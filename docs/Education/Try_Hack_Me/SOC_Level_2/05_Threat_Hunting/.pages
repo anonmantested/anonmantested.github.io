@@ -1,0 +1,11 @@
+﻿title: Threat Hunting
+nav:
+  - Overview: index.md
+  - Threat Hunting Introduction: 01_Threat_Hunting_Introduction.md
+  - Threat Hunting Foothold: 02_Threat_Hunting_Foothold.md
+  - Threat Hunting Pivoting: 03_Threat_Hunting_Pivoting.md
+  - Threat Hunting Endgame: 04_Threat_Hunting_Endgame.md
+  - Hurt Me 1 Payment Collectors: 05_Hurt_Me_1_Payment_Collectors.md
+  - Hurt Me 2 Typo Squatters: 06_Hurt_Me_2_Typo_Squatters.md
+  - Health Hazard: 07_Health_Hazard.md
+  - Typo Snare: 08_Typo_Snare.md

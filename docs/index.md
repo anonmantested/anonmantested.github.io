@@ -1,9 +1,8 @@
-# Section Overview
+# Study Notes Portal
 
-This section contains structured notes, labs, and references.
+This site contains my structured study notes for:
 
-Use the navigation menu to explore sub-sections.
+- Cisco certifications (CCST, CCNA)
+- TryHackMe learning paths
 
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to browse the content.

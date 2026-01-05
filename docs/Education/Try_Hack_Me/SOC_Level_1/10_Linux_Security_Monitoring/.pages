@@ -1,0 +1,8 @@
+﻿title: Linux Security Monitoring
+nav:
+  - Overview: index.md
+  - Linux Logging For SOC: 01_Linux_Logging_For_SOC.md
+  - Linux Threat Detection 1: 02_Linux_Threat_Detection_1.md
+  - Linux Threat Detection 2: 03_Linux_Threat_Detection_2.md
+  - Linux Threat Detection 3: 04_Linux_Threat_Detection_3.md
+  - BlackCat: 05_BlackCat.md

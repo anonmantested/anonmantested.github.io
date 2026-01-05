@@ -1,0 +1,7 @@
+﻿title: Offensive Security Tooling
+nav:
+  - Overview: index.md
+  - Hydra: 01_Hydra.md
+  - Gobuster The Basics: 02_Gobuster_The_Basics.md
+  - Shells Overview: 03_Shells_Overview.md
+  - SQLMap The basics: 04_SQLMap_The_basics.md

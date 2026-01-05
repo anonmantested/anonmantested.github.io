@@ -1,0 +1,10 @@
+﻿title: Chapter 9 Operating Systems And Tools
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Host Security Features: 02_Host_Security_Features.md
+  - WIndows: 03_WIndows.md
+  - Linux: 04_Linux.md
+  - MacOS: 05_MacOS.md
+  - Tools: 06_Tools.md
+  - Review: 07_Review.md

@@ -1,0 +1,9 @@
+﻿title: Chapter 1 Security Principles
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - The CIA Triad: 02_The_CIA_Triad.md
+  - Common Security terms: 03_Common_Security_terms.md
+  - Types Of Attackers And Their Reason For Attacks: 04_Types_Of_Attackers_And_Their_Reason_For_Attacks.md
+  - Code Of Ethics: 05_Code_Of_Ethics.md
+  - Review: 06_Review.md

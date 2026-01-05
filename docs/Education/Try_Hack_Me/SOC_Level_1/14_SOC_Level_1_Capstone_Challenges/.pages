@@ -1,0 +1,9 @@
+﻿title: SOC Level 1 Capstone Challenges
+nav:
+  - Overview: index.md
+  - Tempest: 01_Tempest.md
+  - Boogeyman 1: 02_Boogeyman_1.md
+  - Boogeyman 2: 03_Boogeyman_2.md
+  - Boogeyman 3: 04_Boogeyman_3.md
+  - Hidden Hooks: 05_Hidden_Hooks.md
+  - Open Door: 06_Open_Door.md

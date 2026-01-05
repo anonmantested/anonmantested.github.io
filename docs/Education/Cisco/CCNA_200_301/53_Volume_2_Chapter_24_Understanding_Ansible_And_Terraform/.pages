@@ -1,0 +1,7 @@
+﻿title: Volume 2 Chapter 24 Understanding Ansible And Terraform
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Device Configuration Challenges And Solutions: 02_Device_Configuration_Challenges_And_Solutions.md
+  - Ansible And Terraform Basics: 03_Ansible_And_Terraform_Basics.md
+  - Review: 04_Review.md

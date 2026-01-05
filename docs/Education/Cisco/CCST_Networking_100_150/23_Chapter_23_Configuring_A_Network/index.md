@@ -1,9 +1,5 @@
-# Section Overview
+﻿# Chapter 23 Configuring A Network
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **Chapter 23 Configuring A Network**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

@@ -1,0 +1,9 @@
+﻿title: Volume 1 Chapter 15 Subnet Design
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Choosing The Masks To Meet Requirements: 02_Choosing_The_Masks_To_Meet_Requirements.md
+  - Finding All Subnet IDs: 03_Finding_All_Subnet_IDs.md
+  - Finding All Subnets With Exactly 8 Subnet Bits: 04_Finding_All_Subnets_With_Exactly_8_Subnet_Bits.md
+  - Practice Finding All Subnet IDs: 05_Practice_Finding_All_Subnet_IDs.md
+  - Review: 06_Review.md

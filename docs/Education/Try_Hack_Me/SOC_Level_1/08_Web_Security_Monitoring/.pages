@@ -1,0 +1,8 @@
+﻿title: Web Security Monitoring
+nav:
+  - Overview: index.md
+  - Web Security Essentials: 01_Web_Security_Essentials.md
+  - Detecting Web Attacks: 02_Detecting_Web_Attacks.md
+  - Detecting Web Shells: 03_Detecting_Web_Shells.md
+  - Detecting Web DDos: 04_Detecting_Web_DDos.md
+  - Upload And Conquer: 05_Upload_And_Conquer.md

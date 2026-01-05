@@ -1,0 +1,9 @@
+﻿title: Chapter 13 Threat Intelligence
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Threat Intelligence: 02_Threat_Intelligence.md
+  - Vulnerabilities Databases And Feeds: 03_Vulnerabilities_Databases_And_Feeds.md
+  - Additional Sources Of Threat Intelligence: 04_Additional_Sources_Of_Threat_Intelligence.md
+  - How And Why To Proactively Share Threat Intelligence: 05_How_And_Why_To_Proactively_Share_Threat_Intelligence.md
+  - Review: 06_Review.md

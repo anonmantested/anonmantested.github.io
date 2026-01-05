@@ -1,0 +1,17 @@
+﻿title: SOC Level 1
+nav:
+  - Overview: index.md
+  - Blue Team Introduction: 01_Blue_Team_Introduction/
+  - SOC Team Internals: 02_SOC_Team_Internals/
+  - Core SOC Solutions: 03_Core_SOC_Solutions/
+  - Cyber Defence Frameworks: 04_Cyber_Defence_Frameworks/
+  - Phishing Analysis: 05_Phishing_Analysis/
+  - Network Traffic Analysis: 06_Network_Traffic_Analysis/
+  - Network Security Monitoring: 07_Network_Security_Monitoring/
+  - Web Security Monitoring: 08_Web_Security_Monitoring/
+  - Windows Security Monitoring: 09_Windows_Security_Monitoring/
+  - Linux Security Monitoring: 10_Linux_Security_Monitoring/
+  - Malware Concepts For SOC: 11_Malware_Concepts_For_SOC/
+  - Threat Analysis Tools: 12_Threat_Analysis_Tools/
+  - SIEM Triage For SOC: 13_SIEM_Triage_For_SOC/
+  - SOC Level 1 Capstone Challenges: 14_SOC_Level_1_Capstone_Challenges/

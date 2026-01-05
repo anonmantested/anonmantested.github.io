@@ -1,0 +1,8 @@
+﻿title: SOC Team Internals
+nav:
+  - Overview: index.md
+  - SOC L1 Alert Triage: 01_SOC_L1_Alert_Triage.md
+  - SOC L1 Alert Reporting: 02_SOC_L1_Alert_Reporting.md
+  - SOC Workbooks And Lookups: 03_SOC_Workbooks_And_Lookups.md
+  - SOC Metrics And Objectives: 04_SOC_Metrics_And_Objectives.md
+  - Introduction To Phishing: 05_Introduction_To_Phishing.md

@@ -1,0 +1,13 @@
+﻿title: Chapter 2 Common Threats Attacks Vulnerabilities
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Malware Variants: 02_Malware_Variants.md
+  - IoT Yulnerabilities: 03_IoT_Yulnerabilities.md
+  - DIstributed Denial Of Service: 04_DIstributed_Denial_Of_Service.md
+  - On Path Attacks: 05_On_Path_Attacks.md
+  - Insider Threats: 06_Insider_Threats.md
+  - Social Engineering Attacks: 07_Social_Engineering_Attacks.md
+  - Physical Attacks: 08_Physical_Attacks.md
+  - Advanced Persistent Threats APTs: 09_Advanced_Persistent_Threats_APTs.md
+  - Review: 10_Review.md

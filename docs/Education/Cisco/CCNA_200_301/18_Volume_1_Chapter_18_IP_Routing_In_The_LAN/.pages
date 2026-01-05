@@ -1,0 +1,9 @@
+﻿title: Volume 1 Chapter 18 IP Routing In The LAN
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - VLAN Routing With Router 802.1Q Trunks: 02_VLAN_Routing_With_Router_802.1Q_Trunks.md
+  - VLAN Routing With Layer 3 Switch SVIs: 03_VLAN_Routing_With_Layer_3_Switch_SVIs.md
+  - VLAN Routing With Layer 3 Switch Routed Ports: 04_VLAN_Routing_With_Layer_3_Switch_Routed_Ports.md
+  - VLAN Routing On A Routers LAN Switch Ports: 05_VLAN_Routing_On_A_Routers_LAN_Switch_Ports.md
+  - Review: 06_Review.md

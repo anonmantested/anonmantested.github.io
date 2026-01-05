@@ -1,0 +1,9 @@
+﻿title: Incident Response
+nav:
+  - Overview: index.md
+  - Preparation: 01_Preparation.md
+  - Identification And Scoping: 02_Identification_And_Scoping.md
+  - Threat Intel And Containment: 03_Threat_Intel_And_Containment.md
+  - Eradication And Remediation: 04_Eradication_And_Remediation.md
+  - Lessons Learned: 05_Lessons_Learned.md
+  - Tardigrade: 06_Tardigrade.md

@@ -1,0 +1,7 @@
+﻿title: Security Solutions
+nav:
+  - Overview: index.md
+  - Introduction To SIEM: 01_Introduction_To_SIEM.md
+  - Firewall Fundamentals: 02_Firewall_Fundamentals.md
+  - IDS Fundamentals: 03_IDS_Fundamentals.md
+  - Vulnerability Scanner Overview: 04_Vulnerability_Scanner_Overview.md

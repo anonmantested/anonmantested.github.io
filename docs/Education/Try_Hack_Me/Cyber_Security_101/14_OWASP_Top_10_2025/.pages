@@ -1,0 +1,6 @@
+﻿title: OWASP Top 10 2025
+nav:
+  - Overview: index.md
+  - OWASP Top 10 2025 IAAA Failures: 01_OWASP_Top_10_2025_IAAA_Failures.md
+  - OWASP Top 10 2025 Application Design Flaws: 02_OWASP_Top_10_2025_Application_Design_Flaws.md
+  - OWASP Top 10 2025 Insecure Data Handing: 03_OWASP_Top_10_2025_Insecure_Data_Handing.md

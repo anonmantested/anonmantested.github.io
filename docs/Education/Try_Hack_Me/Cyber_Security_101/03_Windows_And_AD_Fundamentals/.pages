@@ -1,0 +1,7 @@
+﻿title: Windows And AD Fundamentals
+nav:
+  - Overview: index.md
+  - Windows Fundamentals Part 1: 01_Windows_Fundamentals_Part_1.md
+  - Windows Fundamentals Part 2: 02_Windows_Fundamentals_Part_2.md
+  - Windows Fundamentals Part 3: 03_Windows_Fundamentals_Part_3.md
+  - Active Directory Basics: 04_Active_Directory_Basics.md

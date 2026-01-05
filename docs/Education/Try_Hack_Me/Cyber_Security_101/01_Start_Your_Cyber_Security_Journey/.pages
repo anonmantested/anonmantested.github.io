@@ -1,0 +1,6 @@
+﻿title: Start Your Cyber Security Journey
+nav:
+  - Overview: index.md
+  - Offensive Security Intro: 01_Offensive_Security_Intro.md
+  - Defensive Security Intro: 02_Defensive_Security_Intro.md
+  - Search Skills: 03_Search_Skills.md

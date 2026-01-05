@@ -1,0 +1,10 @@
+﻿title: Chapter 3 Routing And Switching
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Assigning IP Addresses To Hosts: 02_Assigning_IP_Addresses_To_Hosts.md
+  - Host To Host Communication And Address Resolution On A Single Wire: 03_Host_To_Host_Communication_And_Address_Resolution_On_A_Single_Wire.md
+  - Switching Packets: 04_Switching_Packets.md
+  - Routing Packets: 05_Routing_Packets.md
+  - Redirects And Relays: 06_Redirects_And_Relays.md
+  - Review: 07_Review.md

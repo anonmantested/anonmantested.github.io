@@ -1,9 +1,5 @@
-# Section Overview
+﻿# Volume 1 Chapter 15 Subnet Design
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **Volume 1 Chapter 15 Subnet Design**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

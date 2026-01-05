@@ -1,0 +1,6 @@
+﻿title: Command Line
+nav:
+  - Overview: index.md
+  - Windows Command Line: 01_Windows_Command_Line.md
+  - WIndows Powershell: 02_WIndows_Powershell.md
+  - Linux Shells: 03_Linux_Shells.md

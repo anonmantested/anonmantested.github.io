@@ -1,0 +1,8 @@
+﻿title: Volume 2 Chapter 20 Cloud Architecture
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Server Virtualization: 02_Server_Virtualization.md
+  - WAN Traffic Paths To Reach Cloud Services: 03_WAN_Traffic_Paths_To_Reach_Cloud_Services.md
+  - Understanding Cloud Management: 04_Understanding_Cloud_Management.md
+  - Chapter Review: 05_Chapter_Review.md

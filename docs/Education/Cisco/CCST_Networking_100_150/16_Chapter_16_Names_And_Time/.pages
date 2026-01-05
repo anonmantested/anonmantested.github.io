@@ -1,0 +1,11 @@
+﻿title: Chapter 16 Names And Time
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - The Domain Name Space: 02_The_Domain_Name_Space.md
+  - The Life Of A DNS Query: 03_The_Life_Of_A_DNS_Query.md
+  - DNS Architecture And Operations: 04_DNS_Architecture_And_Operations.md
+  - DNS Security And Privacy: 05_DNS_Security_And_Privacy.md
+  - Diagnosing DNS: 06_Diagnosing_DNS.md
+  - The Network Time Protocol: 07_The_Network_Time_Protocol.md
+  - Review: 08_Review.md

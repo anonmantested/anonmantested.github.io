@@ -1,0 +1,7 @@
+﻿title: Blue Team Introduction
+nav:
+  - Overview: index.md
+  - Junior Security Analyst Intro: 01_Junior_Security_Analyst_Intro.md
+  - SOC Role In Blue Team: 02_SOC_Role_In_Blue_Team.md
+  - Humans As Attack Vectors: 03_Humans_As_Attack_Vectors.md
+  - Systems As Attack Vectors: 04_Systems_As_Attack_Vectors.md

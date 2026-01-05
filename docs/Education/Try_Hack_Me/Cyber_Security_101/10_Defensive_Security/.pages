@@ -1,0 +1,8 @@
+﻿title: Defensive Security
+nav:
+  - Overview: index.md
+  - Defensive Security Intro: 01_Defensive_Security_Intro.md
+  - SOC Fundamentals: 02_SOC_Fundamentals.md
+  - Digital Forensics Fundamentals: 03_Digital_Forensics_Fundamentals.md
+  - Incident Response Fundamentals: 04_Incident_Response_Fundamentals.md
+  - Logs Fundamentals: 05_Logs_Fundamentals.md

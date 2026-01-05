@@ -1,0 +1,7 @@
+﻿title: Advanced ELK
+nav:
+  - Overview: index.md
+  - Logstash Data Processing Unit: 01_Logstash_Data_Processing_Unit.md
+  - Custom Alert Rules In Wazuh: 02_Custom_Alert_Rules_In_Wazuh.md
+  - Advanced ELK Queries: 03_Advanced_ELK_Queries.md
+  - Slingshot: 04_Slingshot.md

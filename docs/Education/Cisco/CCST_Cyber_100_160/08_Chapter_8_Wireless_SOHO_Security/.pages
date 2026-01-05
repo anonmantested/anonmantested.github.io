@@ -1,0 +1,10 @@
+﻿title: Chapter 8 Wireless SOHO Security
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Hardening Wireless Routers And Access Points: 02_Hardening_Wireless_Routers_And_Access_Points.md
+  - Wireless Encryption Standards: 03_Wireless_Encryption_Standards.md
+  - WIreless Authentication: 04_WIreless_Authentication.md
+  - Wifi Protected Setup SSIDs And MAC Address Filtering: 05_Wifi_Protected_Setup_SSIDs_And_MAC_Address_Filtering.md
+  - Common Wireless Network Threats And Attacks: 06_Common_Wireless_Network_Threats_And_Attacks.md
+  - Review: 07_Review.md

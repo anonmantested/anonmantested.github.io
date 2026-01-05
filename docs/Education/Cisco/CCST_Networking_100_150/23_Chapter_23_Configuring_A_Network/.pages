@@ -1,0 +1,11 @@
+﻿title: Chapter 23 Configuring A Network
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Initial Access: 02_Initial_Access.md
+  - Configuring IPv4: 03_Configuring_IPv4.md
+  - Configuring Routing: 04_Configuring_Routing.md
+  - Configuring Remote Access And Security: 05_Configuring_Remote_Access_And_Security.md
+  - Adding IPv6: 06_Adding_IPv6.md
+  - Adding A Switch: 07_Adding_A_Switch.md
+  - Review: 08_Review.md

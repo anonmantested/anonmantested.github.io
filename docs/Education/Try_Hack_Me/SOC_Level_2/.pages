@@ -1,0 +1,11 @@
+﻿title: SOC Level 2
+nav:
+  - Overview: index.md
+  - Log Analysis: 01_Log_Analysis/
+  - Advanced Splunk: 02_Advanced_Splunk/
+  - Advanced ELK: 03_Advanced_ELK/
+  - Detectiong Engineering: 04_Detectiong_Engineering/
+  - Threat Hunting: 05_Threat_Hunting/
+  - Threat Emulation: 06_Threat_Emulation/
+  - Incident Response: 07_Incident_Response/
+  - Malware Analysis: 08_Malware_Analysis/

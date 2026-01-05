@@ -1,0 +1,10 @@
+﻿title: Detectiong Engineering
+nav:
+  - Overview: index.md
+  - Intro To Detection Engineering: 01_Intro_To_Detection_Engineering.md
+  - Tactical Detection: 02_Tactical_Detection.md
+  - Threat Intelligence For SOC: 03_Threat_Intelligence_For_SOC.md
+  - Sigma: 04_Sigma.md
+  - SigHunt: 05_SigHunt.md
+  - Aurora EDR: 06_Aurora_EDR.md
+  - Introduction To SOAR: 07_Introduction_To_SOAR.md

@@ -1,0 +1,9 @@
+﻿title: Volume 2 Chapter 3 Securing Wireless Networks
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Anatomy Of A Secure Connection: 02_Anatomy_Of_A_Secure_Connection.md
+  - Wireless Client Authentication Methods: 03_Wireless_Client_Authentication_Methods.md
+  - Wireless Privacy And Integrity Methods: 04_Wireless_Privacy_And_Integrity_Methods.md
+  - WPA WPA2 And WPA3: 05_WPA_WPA2_And_WPA3.md
+  - Review: 06_Review.md

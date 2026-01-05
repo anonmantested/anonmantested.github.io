@@ -1,0 +1,7 @@
+﻿title: Defensive Security Tooling
+nav:
+  - Overview: index.md
+  - CyberChef The basics: 01_CyberChef_The_basics.md
+  - CAPA The Basics: 02_CAPA_The_Basics.md
+  - REMnux The Basics: 03_REMnux_The_Basics.md
+  - FlareVM Arsenal Of Tools: 04_FlareVM_Arsenal_Of_Tools.md

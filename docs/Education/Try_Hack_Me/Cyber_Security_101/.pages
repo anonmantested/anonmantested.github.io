@@ -1,0 +1,17 @@
+﻿title: Cyber Security 101
+nav:
+  - Overview: index.md
+  - Start Your Cyber Security Journey: 01_Start_Your_Cyber_Security_Journey/
+  - Linux Fundamentals: 02_Linux_Fundamentals/
+  - Windows And AD Fundamentals: 03_Windows_And_AD_Fundamentals/
+  - Command Line: 04_Command_Line/
+  - Networking: 05_Networking/
+  - Cryptography: 06_Cryptography/
+  - Exploitation Basics: 07_Exploitation_Basics/
+  - Web Hacking: 08_Web_Hacking/
+  - Offensive Security Tooling: 09_Offensive_Security_Tooling/
+  - Defensive Security: 10_Defensive_Security/
+  - Security Solutions: 11_Security_Solutions/
+  - Defensive Security Tooling: 12_Defensive_Security_Tooling/
+  - Build Your Cyber Security Career: 13_Build_Your_Cyber_Security_Career/
+  - OWASP Top 10 2025: 14_OWASP_Top_10_2025/

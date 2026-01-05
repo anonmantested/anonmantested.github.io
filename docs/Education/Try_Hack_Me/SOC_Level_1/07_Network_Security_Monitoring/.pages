@@ -1,0 +1,9 @@
+﻿title: Network Security Monitoring
+nav:
+  - Overview: index.md
+  - Network Security Essentials: 01_Network_Security_Essentials.md
+  - Network Discovery Detection: 02_Network_Discovery_Detection.md
+  - Data Exfiltration Detection: 03_Data_Exfiltration_Detection.md
+  - Man In The Middle Detection: 04_Man_In_The_Middle_Detection.md
+  - IDS Fundamentals: 05_IDS_Fundamentals.md
+  - Snort: 06_Snort.md

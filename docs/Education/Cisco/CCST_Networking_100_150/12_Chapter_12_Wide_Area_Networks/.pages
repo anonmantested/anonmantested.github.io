@@ -1,0 +1,9 @@
+﻿title: Chapter 12 Wide Area Networks
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Common Challenges To Building Wide Area Networks: 02_Common_Challenges_To_Building_Wide_Area_Networks.md
+  - Metro And Last Mile Network Design: 03_Metro_And_Last_Mile_Network_Design.md
+  - Transit Provider Design: 04_Transit_Provider_Design.md
+  - Ring And Hub And Spoke Topologies: 05_Ring_And_Hub_And_Spoke_Topologies.md
+  - Review: 06_Review.md

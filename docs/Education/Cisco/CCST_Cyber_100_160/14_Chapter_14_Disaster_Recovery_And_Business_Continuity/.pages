@@ -1,0 +1,9 @@
+﻿title: Chapter 14 Disaster Recovery And Business Continuity
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - DIsaster Recovery Plans: 02_DIsaster_Recovery_Plans.md
+  - Business Impact Analyses BIAs: 03_Business_Impact_Analyses_BIAs.md
+  - Business Continuity Plans: 04_Business_Continuity_Plans.md
+  - Disaster Recovery VS Business Continuity: 05_Disaster_Recovery_VS_Business_Continuity.md
+  - Review: 06_Review.md

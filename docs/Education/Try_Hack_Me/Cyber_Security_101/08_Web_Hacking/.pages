@@ -1,0 +1,7 @@
+﻿title: Web Hacking
+nav:
+  - Overview: index.md
+  - Web Application Basics: 01_Web_Application_Basics.md
+  - JavaScript Essentials: 02_JavaScript_Essentials.md
+  - SQL Fundamentals: 03_SQL_Fundamentals.md
+  - Burp Suite The Basics: 04_Burp_Suite_The_Basics.md

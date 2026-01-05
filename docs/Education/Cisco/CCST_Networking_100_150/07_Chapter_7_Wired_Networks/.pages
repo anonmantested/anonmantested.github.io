@@ -1,0 +1,10 @@
+﻿title: Chapter 7 Wired Networks
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Electrical Transmission And Interference: 02_Electrical_Transmission_And_Interference.md
+  - The Maximum Transmission Unit: 03_The_Maximum_Transmission_Unit.md
+  - Ethernet Over Copper: 04_Ethernet_Over_Copper.md
+  - Fiber: 05_Fiber.md
+  - Pluggable Interfaces: 06_Pluggable_Interfaces.md
+  - Review: 07_Review.md

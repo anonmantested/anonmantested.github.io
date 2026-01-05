@@ -1,9 +1,5 @@
-# Section Overview
+﻿# Build Your Cyber Security Career
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **Build Your Cyber Security Career**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

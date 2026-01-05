@@ -1,9 +1,5 @@
-# Section Overview
+﻿# Chapter 16 Names And Time
 
-This section contains structured notes, labs, and references.
+This section contains notes, explanations, and labs related to **Chapter 16 Names And Time**.
 
-Use the navigation menu to explore sub-sections.
-
----
-
-_Status: structure-only placeholder_
+Use the navigation menu to explore the content.

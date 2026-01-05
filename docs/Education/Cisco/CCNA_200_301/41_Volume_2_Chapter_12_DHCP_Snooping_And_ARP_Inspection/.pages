@@ -1,0 +1,8 @@
+﻿title: Volume 2 Chapter 12 DHCP Snooping And ARP Inspection
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - DHCP Snooping: 02_DHCP_Snooping.md
+  - Dynamic ARP Inspection: 03_Dynamic_ARP_Inspection.md
+  - Dynamic ARP Inspection Configuration: 04_Dynamic_ARP_Inspection_Configuration.md
+  - Review: 05_Review.md

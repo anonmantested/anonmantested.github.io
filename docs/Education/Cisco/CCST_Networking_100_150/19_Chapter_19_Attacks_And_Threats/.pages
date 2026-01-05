@@ -1,0 +1,10 @@
+﻿title: Chapter 19 Attacks And Threats
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Defining Attacks And Threats: 02_Defining_Attacks_And_Threats.md
+  - Gaining Access: 03_Gaining_Access.md
+  - Lateral Movement: 04_Lateral_Movement.md
+  - Attack Actions: 05_Attack_Actions.md
+  - Denial Of Service: 06_Denial_Of_Service.md
+  - Review: 07_Review.md

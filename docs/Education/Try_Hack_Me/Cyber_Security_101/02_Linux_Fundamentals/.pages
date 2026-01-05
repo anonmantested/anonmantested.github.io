@@ -1,0 +1,6 @@
+﻿title: Linux Fundamentals
+nav:
+  - Overview: index.md
+  - Linux Fundamentals Part 1: 01_Linux_Fundamentals_Part_1.md
+  - Linux Fundamentals Part 2: 02_Linux_Fundamentals_Part_2.md
+  - Linux Fundamentals Part 3: 03_Linux_Fundamentals_Part_3.md

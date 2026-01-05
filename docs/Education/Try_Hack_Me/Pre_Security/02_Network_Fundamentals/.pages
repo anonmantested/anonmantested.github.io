@@ -1,0 +1,8 @@
+﻿title: Network Fundamentals
+nav:
+  - Overview: index.md
+  - What Is Networking: 01_What_Is_Networking.md
+  - Intro To LAN: 02_Intro_To_LAN.md
+  - OSI Model: 03_OSI_Model.md
+  - Packets And Frames: 04_Packets_And_Frames.md
+  - Extending Your Network: 05_Extending_Your_Network.md

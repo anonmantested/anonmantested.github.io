@@ -1,0 +1,10 @@
+﻿title: Chapter 20 Security Tools
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Authentication Tools: 02_Authentication_Tools.md
+  - Defensive Tools And Design: 03_Defensive_Tools_And_Design.md
+  - Countering Spam And Phishing: 04_Countering_Spam_And_Phishing.md
+  - Encryption: 05_Encryption.md
+  - Virtual Private Networks: 06_Virtual_Private_Networks.md
+  - Review: 07_Review.md

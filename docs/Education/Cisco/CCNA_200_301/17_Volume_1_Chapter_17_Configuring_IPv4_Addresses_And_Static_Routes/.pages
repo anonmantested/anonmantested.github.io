@@ -1,0 +1,11 @@
+﻿title: Volume 1 Chapter 17 Configuring IPv4 Addresses And Static Routes
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - IP Routing: 02_IP_Routing.md
+  - Configuring IP Addresses And Connected Routes: 03_Configuring_IP_Addresses_And_Connected_Routes.md
+  - Static Default Routes: 04_Static_Default_Routes.md
+  - Static Host Routes: 05_Static_Host_Routes.md
+  - Floating Static Routes: 06_Floating_Static_Routes.md
+  - Troubleshooting Static Routes: 07_Troubleshooting_Static_Routes.md
+  - Review: 08_Review.md

@@ -1,0 +1,10 @@
+﻿title: Phishing Analysis
+nav:
+  - Overview: index.md
+  - Phishing Analysis Fundamentals: 01_Phishing_Analysis_Fundamentals.md
+  - Phishing Emails In Action: 02_Phishing_Emails_In_Action.md
+  - Phishing Analysis Tools: 03_Phishing_Analysis_Tools.md
+  - Phishing Prevention: 04_Phishing_Prevention.md
+  - The Greenholt Phish: 05_The_Greenholt_Phish.md
+  - Snapped Phishing Line: 06_Snapped_Phishing_Line.md
+  - Phishing Unfolding: 07_Phishing_Unfolding.md

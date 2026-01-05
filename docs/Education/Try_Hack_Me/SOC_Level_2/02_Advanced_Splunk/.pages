@@ -1,0 +1,8 @@
+﻿title: Advanced Splunk
+nav:
+  - Overview: index.md
+  - Splunk Exploring SPL: 01_Splunk_Exploring_SPL.md
+  - Splunk Setting Up A SOC Lab: 02_Splunk_Setting_Up_A_SOC_Lab.md
+  - Splunk Dashboards And Reports: 03_Splunk_Dashboards_And_Reports.md
+  - Splunk Data Manipulation: 04_Splunk_Data_Manipulation.md
+  - Fixit: 05_Fixit.md

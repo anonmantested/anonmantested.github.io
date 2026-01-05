@@ -1,0 +1,8 @@
+﻿title: Volume 2 Chapter 13 Device Management Protocols
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - System Message Logging Syslog: 02_System_Message_Logging_Syslog.md
+  - Network Time Protocol NTP: 03_Network_Time_Protocol_NTP.md
+  - Analyzing Topology Using CDP And LLDP: 04_Analyzing_Topology_Using_CDP_And_LLDP.md
+  - Review: 05_Review.md

@@ -1,0 +1,10 @@
+﻿title: Chapter 4 Wired Host Network Configuration
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Windows: 02_Windows.md
+  - MacOS: 03_MacOS.md
+  - Linux: 04_Linux.md
+  - Verifying Connectivity: 05_Verifying_Connectivity.md
+  - Finding Your Public IP Address: 06_Finding_Your_Public_IP_Address.md
+  - Review: 07_Review.md

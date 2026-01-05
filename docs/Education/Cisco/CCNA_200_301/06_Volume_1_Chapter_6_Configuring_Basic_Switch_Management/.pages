@@ -1,0 +1,8 @@
+﻿title: Volume 1 Chapter 6 Configuring Basic Switch Management
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Securing The Switch CLI: 02_Securing_The_Switch_CLI.md
+  - Enabling IPv4 For Remote Access: 03_Enabling_IPv4_For_Remote_Access.md
+  - Miscellaneous Settings Useful In The Lab: 04_Miscellaneous_Settings_Useful_In_The_Lab.md
+  - Review: 05_Review.md

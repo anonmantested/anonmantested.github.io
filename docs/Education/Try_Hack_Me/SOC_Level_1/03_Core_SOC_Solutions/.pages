@@ -1,0 +1,8 @@
+﻿title: Core SOC Solutions
+nav:
+  - Overview: index.md
+  - Introduction To EDR: 01_Introduction_To_EDR.md
+  - Introduction To SIEM: 02_Introduction_To_SIEM.md
+  - Splunk The Basics: 03_Splunk_The_Basics.md
+  - Elastic Stack The Basics: 04_Elastic_Stack_The_Basics.md
+  - Introduction To SOAR: 05_Introduction_To_SOAR.md

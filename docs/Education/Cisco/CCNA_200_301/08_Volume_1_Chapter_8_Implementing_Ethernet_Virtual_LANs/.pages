@@ -1,0 +1,7 @@
+﻿title: Volume 1 Chapter 8 Implementing Ethernet Virtual LANs
+nav:
+  - Overview: index.md
+  - Do I Know This Already Quiz: 01_Do_I_Know_This_Already_Quiz.md
+  - Virtual LAN Concepts: 02_Virtual_LAN_Concepts.md
+  - VLAN And VLAN Trunking Configuration And Verification: 03_VLAN_And_VLAN_Trunking_Configuration_And_Verification.md
+  - Review: 04_Review.md

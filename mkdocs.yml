@@ -1,39 +1,10 @@
-site_name: Knowledge Repo
+site_name: Study Notes
 
 theme:
   name: material
 
-nav:
-  - Home: index.md
+plugins:
+  - search
+  - awesome-pages
 
-  - Education:
-      - Try Hack Me:
-          - Pre Security:
-              - Introduction to Cyber Security:
-                  - Offensive Security Intro: Education/Try_Hack_Me/Pre_Security/1_Introduction_To_Cyber_Security/1_Offensive_Security_Intro.md
-                  - Defensive Security Intro: Education/Try_Hack_Me/Pre_Security/1_Introduction_To_Cyber_Security/2_Defensive_Security_Intro.md
-                  - Careers in Cyber: Education/Try_Hack_Me/Pre_Security/1_Introduction_To_Cyber_Security/3_Careers_In_Cyber.md
-
-              - Network Fundamentals:
-                  - What Is Networking: Education/Try_Hack_Me/Pre_Security/2_Network_Fundamentals/1_What_Is_Networking.md
-                  - Intro to LAN: Education/Try_Hack_Me/Pre_Security/2_Network_Fundamentals/2_Intro_To_LAN.md
-                  - OSI Model: Education/Try_Hack_Me/Pre_Security/2_Network_Fundamentals/3_OSI_Model.md
-                  - Packets and Frames: Education/Try_Hack_Me/Pre_Security/2_Network_Fundamentals/4_Packets_And_Frames.md
-                  - Extending Your Network: Education/Try_Hack_Me/Pre_Security/2_Network_Fundamentals/5_Extending_Your_Network.md
-
-              - How the Web Works:
-                  - DNS in Detail: Education/Try_Hack_Me/Pre_Security/3_How_The_Web_Works/1_DNS_In_Detail.md
-                  - HTTP in Detail: Education/Try_Hack_Me/Pre_Security/3_How_The_Web_Works/2_HTTP_In_Detail.md
-                  - How Websites Work: Education/Try_Hack_Me/Pre_Security/3_How_The_Web_Works/3_How_Websites_Work.md
-                  - Put It All Together: Education/Try_Hack_Me/Pre_Security/3_How_The_Web_Works/4_Put_It_All_Together.md
-
-              - Linux Fundamentals:
-                  - Linux Fundamentals Part 1: Education/Try_Hack_Me/Pre_Security/4_Linux_Fundamentals/1_Linux_Fundamentals_Part_1.md
-                  - Linux Fundamentals Part 2: Education/Try_Hack_Me/Pre_Security/4_Linux_Fundamentals/2_Linux_Fundamentals_Part_2.md
-                  - Linux Fundamentals Part 3: Education/Try_Hack_Me/Pre_Security/4_Linux_Fundamentals/3_Linux_Fundamentals_Part_3.md
-
-              - Windows Fundamentals:
-                  - Windows Fundamentals Part 1: Education/Try_Hack_Me/Pre_Security/5_Windows_Fundamentals/1_Windows_Fundamentals_Part_1.md
-                  - Windows Fundamentals Part 2: Education/Try_Hack_Me/Pre_Security/5_Windows_Fundamentals/2_Windows_Fundamentals_Part_2.md
-                  - Windows Fundamentals Part 3: Education/Try_Hack_Me/Pre_Security/5_Windows_Fundamentals/3_Windows_Fundamentals_Part_3.md
-
+docs_dir: docs

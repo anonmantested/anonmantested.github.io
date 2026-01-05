@@ -1,0 +1,6 @@
+﻿---
+title: Defensive Security Intro
+updated: 2025-12-31 12:24:24Z
+created: 2025-12-31 12:24:04Z
+---
+
